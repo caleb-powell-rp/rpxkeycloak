@@ -19,10 +19,11 @@ header .navbar {
 }
 
 .navbar-title {
-    background-image: url('../img/logo.png');
+    background-image: url('../img/RP-standard-logo-RGB.png');
+    background-size: contain;
     height: 25px;
     background-repeat: no-repeat;
-    width: 123px;
+    width: 160px;
     margin: 3px 10px 5px;
     text-indent: -99999px;
 }
