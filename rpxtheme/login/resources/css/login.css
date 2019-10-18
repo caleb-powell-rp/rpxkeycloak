@@ -79,9 +79,10 @@ a#kc-current-locale-link::after {
 #kc-page-title {
     background-image: url(../img/RP-standard-logo-RGB.png);
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 91px;
-    width: 500px;
+    background-size: contain;
+    height: 70px;
+    width: 400px;
+    text-indent: -9999px;
     margin: 0 auto;
 }
 
